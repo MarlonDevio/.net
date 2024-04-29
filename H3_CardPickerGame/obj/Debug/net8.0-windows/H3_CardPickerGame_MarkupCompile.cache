@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\marlon\source\repos\CSharp\H3_CardPickerGame\obj\Debug\net8.0-windows\
+C:\Users\marha\source\repos\dotNetMaterial\H3_CardPickerGame\obj\Debug\net8.0-windows\
 H3_CardPickerGame
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\marlon\source\repos\CSharp\H3_CardPickerGame\App.xaml
+C:\Users\marha\source\repos\dotNetMaterial\H3_CardPickerGame\App.xaml
 11407045341
 
 5873660335
 198155382431
 MainWindow.xaml;
 
-True
+False
 

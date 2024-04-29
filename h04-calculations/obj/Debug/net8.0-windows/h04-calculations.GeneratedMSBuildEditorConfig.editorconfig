@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = h04_calculations
-build_property.ProjectDir = C:\Users\marlon\source\repos\CSharp\h04-calculations\
+build_property.ProjectDir = C:\Users\marha\source\repos\dotNetMaterial\h04-calculations\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

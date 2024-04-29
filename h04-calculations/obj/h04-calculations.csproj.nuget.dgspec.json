@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marlon\\source\\repos\\CSharp\\h04-calculations\\h04-calculations.csproj": {}
+    "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\h04-calculations\\h04-calculations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marlon\\source\\repos\\CSharp\\h04-calculations\\h04-calculations.csproj": {
+    "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\h04-calculations\\h04-calculations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marlon\\source\\repos\\CSharp\\h04-calculations\\h04-calculations.csproj",
+        "projectUniqueName": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\h04-calculations\\h04-calculations.csproj",
         "projectName": "h04-calculations",
-        "projectPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\h04-calculations\\h04-calculations.csproj",
-        "packagesPath": "C:\\Users\\marlon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\h04-calculations\\obj\\",
+        "projectPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\h04-calculations\\h04-calculations.csproj",
+        "packagesPath": "C:\\Users\\marha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\h04-calculations\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\marha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
