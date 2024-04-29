@@ -133,6 +133,7 @@
             <ListBoxItem Content="4" />
             <ListBoxItem Content="5" />
         </ComboBox>
+        
         <Slider
             x:Name="smallSlider"
             Grid.Row="2"
