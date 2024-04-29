@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("h03-graphics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e02b608b5f760d797ab6b77e2c4fb2ee2b86ff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa009cb72303f10a29a5170244242aec4c7ec8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("h03-graphics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("h03-graphics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
