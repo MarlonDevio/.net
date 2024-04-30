@@ -16,12 +16,12 @@ using System.Windows.Shapes;
 namespace BudgetTracker.Components
 {
     /// <summary>
-    /// Interaction logic for MenuItem.xaml
+    /// Interaction logic for CustomMenuItem.xaml
     /// </summary>
-    public partial class MenuItem : UserControl
+    public partial class CustomMenuItem : UserControl
     {
         public static readonly DependencyProperty MenuItemTextProperty =
-            DependencyProperty.Register(nameof(MenuItemText), typeof(string), typeof(MenuItem),
+            DependencyProperty.Register(nameof(MenuItemText), typeof(string), typeof(CustomMenuItem),
                 new PropertyMetadata("Default Text"));
 
         public string MenuItemText
@@ -30,14 +30,15 @@ namespace BudgetTracker.Components
             set => SetValue(MenuItemTextProperty, value);
         }
 
-        public MenuItem()
+        public CustomMenuItem()
         {
             InitializeComponent();
         }
 
         private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            var customMenu = sender as TextBlock;
+            MessageBox.Show(customMenu.Text);
         }
     }
 }

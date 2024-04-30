@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marha\\.nuget\\packages\\": {}
+    "C:\\Users\\marlon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\H3_CardPickerGame\\H3_CardPickerGame.csproj",
+      "projectUniqueName": "C:\\Users\\marlon\\source\\repos\\CSharp\\H3_CardPickerGame\\H3_CardPickerGame.csproj",
       "projectName": "H3_CardPickerGame",
-      "projectPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\H3_CardPickerGame\\H3_CardPickerGame.csproj",
-      "packagesPath": "C:\\Users\\marha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\H3_CardPickerGame\\obj\\",
+      "projectPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\H3_CardPickerGame\\H3_CardPickerGame.csproj",
+      "packagesPath": "C:\\Users\\marlon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\H3_CardPickerGame\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

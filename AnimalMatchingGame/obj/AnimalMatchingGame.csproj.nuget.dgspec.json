@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\AnimalMatchingGame\\AnimalMatchingGame.csproj": {}
+    "C:\\Users\\marlon\\source\\repos\\CSharp\\AnimalMatchingGame\\AnimalMatchingGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\AnimalMatchingGame\\AnimalMatchingGame.csproj": {
+    "C:\\Users\\marlon\\source\\repos\\CSharp\\AnimalMatchingGame\\AnimalMatchingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\AnimalMatchingGame\\AnimalMatchingGame.csproj",
+        "projectUniqueName": "C:\\Users\\marlon\\source\\repos\\CSharp\\AnimalMatchingGame\\AnimalMatchingGame.csproj",
         "projectName": "AnimalMatchingGame",
-        "projectPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\AnimalMatchingGame\\AnimalMatchingGame.csproj",
-        "packagesPath": "C:\\Users\\marha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marha\\source\\repos\\dotNetMaterial\\AnimalMatchingGame\\obj\\",
+        "projectPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\AnimalMatchingGame\\AnimalMatchingGame.csproj",
+        "packagesPath": "C:\\Users\\marlon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marlon\\source\\repos\\CSharp\\AnimalMatchingGame\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
