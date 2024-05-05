@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\marlon\source\repos\CSharp\BudgetTracker\obj\Debug\net8.0-windows\
+C:\Users\marha\source\repos\dotNetMaterial\BudgetTracker\obj\Debug\net8.0-windows\
 BudgetTracker
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\marlon\source\repos\CSharp\BudgetTracker\App.xaml
+C:\Users\marha\source\repos\dotNetMaterial\BudgetTracker\App.xaml
 3-1736150017
 
 9-1942889577
 198155382431
 Components\CustomMenuItem.xaml;Components\OverviewContainer.xaml;MainWindow.xaml;
 
-True
+False
 

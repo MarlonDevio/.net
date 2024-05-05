@@ -4,40 +4,44 @@ namespace CHAPTER3_objects;
 
 public class Guy
 {
-    private string _name;
-    public string Name
+    public string Name;
+    public int Cash;
+
+    /// <summary>
+    /// Writes my name and amount of cash I have to the console
+    /// </summary>
+    public void WriteMyInfo()
     {
-        get => _name;
-        set => _name = value ?? throw new ArgumentNullException(nameof(value));
+        Console.WriteLine($"{Name} has {Cash} bucks.");
     }
 
-    private int _cash;
-    public int Cash
+    public int GiveCash(int amount)
     {
-        get => _cash;
-        set
+        if (amount <= 0)
         {
-            if (value < 0)
-                throw new ArgumentOutOfRangeException(nameof(value), "Cash cannot be negative!");
-            _cash = value;
+            Console.WriteLine($"{Name} says {amount} isn't a valid amount");
+            return 0;
         }
+
+        if (amount > Cash)
+        {
+            Console.WriteLine($"{Name} says I don't have enough cash to give you {amount}");
+            return 0;
+        }
+
+        Cash -= amount;
+        return amount;
     }
 
-    public void WriteMyInfo() => Console.WriteLine($"{Name} has {Cash} bucks");
-
-    public string AnswerTransaction(int amount) =>
-        IsValidAmount(amount) ? $"{Name} gave cash." : $"{Name} says this isn't a valid number";
-
-    private bool IsValidAmount(int amount) => amount > 0 && amount <= Cash;
-
-    public bool GiveCash(int amount)
+    public void ReceiveCash(int amount)
     {
-        if (IsValidAmount(amount))
+        if (amount <= 0)
         {
-            Cash -= amount;
-            return true;
+            Console.WriteLine($"{Name} says {amount} isn't an amount I'll take");
         }
-
-        return false;
+        else
+        {
+            Cash += amount;
+        }
     }
 }

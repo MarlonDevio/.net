@@ -1,0 +1,15 @@
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\bin\Debug\net8.0\CHAPTER3_objects.exe
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\bin\Debug\net8.0\CHAPTER3_objects.deps.json
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\bin\Debug\net8.0\CHAPTER3_objects.runtimeconfig.json
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\bin\Debug\net8.0\CHAPTER3_objects.dll
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\bin\Debug\net8.0\CHAPTER3_objects.pdb
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.AssemblyInfoInputs.cache
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.AssemblyInfo.cs
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.csproj.CoreCompileInputs.cache
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.sourcelink.json
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.dll
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\refint\CHAPTER3_objects.dll
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.pdb
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\CHAPTER3_objects.genruntimeconfig.cache
+C:\Users\marha\source\repos\dotNetMaterial\CHAPTER3_objects\obj\Debug\net8.0\ref\CHAPTER3_objects.dll
