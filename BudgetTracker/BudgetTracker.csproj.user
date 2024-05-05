@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Components\MenuItem.xaml.cs">
+    <Compile Update="Components\CustomMenuItem.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Components\OverviewContainer.xaml.cs">
@@ -10,7 +10,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Components\MenuItem.xaml">
+    <Page Update="Components\CustomMenuItem.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Components\OverviewContainer.xaml">

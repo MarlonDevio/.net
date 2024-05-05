@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\marha\source\repos\dotNetMaterial\BudgetTracker\App.xaml
-31242949129
+3-1736150017
 
-7-1959470102
+71607494518
 198155382431
-Components\MenuItem.xaml;Components\OverviewContainer.xaml;MainWindow.xaml;
+Components\CustomMenuItem.xaml;Components\OverviewContainer.xaml;MainWindow.xaml;
 
 True
 

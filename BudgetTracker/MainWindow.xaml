@@ -31,13 +31,13 @@
 
             <StackPanel
                 Orientation="Horizontal">
-                <components:MenuItem
+                <components:CustomMenuItem
                     MenuItemText="Home" />
-                <components:MenuItem
+                <components:CustomMenuItem
                     MenuItemText="Overview" />
-                <components:MenuItem
+                <components:CustomMenuItem
                     MenuItemText="Categories" />
-                <components:MenuItem
+                <components:CustomMenuItem
                     MenuItemText="help" />
             </StackPanel>
         </Menu>
